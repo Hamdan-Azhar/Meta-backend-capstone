@@ -126,6 +126,8 @@ DJOSER = {
     "USER_ID_FIELD": "username"
 }
 
+TIME_ZONE = 'UTC'
+
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.2/howto/static-files/
 
